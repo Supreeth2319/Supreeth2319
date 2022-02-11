@@ -9,3 +9,4 @@
 - 😄 I love learning new stuff related to Tech
 - ⚡ Fun fact: i love to play cricket and i spend around 3 hours a day listening to music🤣
 -->
+<img src"https://github-readme-stats.vercel.app/api?username=Supreeth2319&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
