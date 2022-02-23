@@ -8,7 +8,7 @@
 - 📫 I Love contributing to open source project
 - 😄 I love learning new stuff related to Tech
 - ⚡ Fun fact: i love to play cricket and i spend around 3 hours a day listening to music🤣
-<img src="https://github-readme-stats.vercel.app/api?username=Supreeth2319&&show_icons=true&title_color=ffffff&icon_color=b7ggh2&text_color=898989&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=Supreeth2319&&show_icons=true&title_color=ffffff&icon_color=b7ggh2&text_color=787878&bg_color=191919">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreeth2319&label=Profile%20views&color=0e75b6&style=flat" alt="supreeth2319" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreeth2319" alt="supreeth2319" /></a> </p>
