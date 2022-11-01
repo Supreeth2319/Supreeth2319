@@ -1,7 +1,7 @@
 ### Hi there, I'm Supreeth.M  👋 
 
 - 🔭 ## I'm  currently studying in vidyavardhaka collage of engineering!!
-- 🌱 I’m currently learning python😄
+- 🌱 I’m currently learning python 🐍 
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with software development
 - 💬 Ask me about tech related stuff
