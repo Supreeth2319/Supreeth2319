@@ -36,3 +36,4 @@
 <h3 align="left">Support:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supreeth2319&" alt="supreeth2319" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supreeth2319&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
