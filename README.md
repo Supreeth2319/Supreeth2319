@@ -3,7 +3,7 @@
 - 🔭 ## I'm  currently studying in vidyavardhaka collage of engineering!!
 - 🌱 I’m currently learning python 🐍 
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with software development
+- 🤔 I’m looking for help with Data Science
 - 💬 Ask me about tech related stuff
 - 📫 I Love contributing to open source project
 - 😄 I love learning new stuff related to Tech
