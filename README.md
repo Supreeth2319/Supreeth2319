@@ -36,5 +36,4 @@
 <h3 align="left">Support:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supreeth2319&" alt="supreeth2319" /></p>
-api/top-langs?username=anuraghazra
 [![supreeth2319's GitHub | Stats](https://stats.quine.sh/supreeth2319/github?theme=light)](https://quine.sh)
