@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supreeth2319&" alt="supreeth2319" /></p>
 api/top-langs?username=anuraghazra
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supreeth2319&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![supreeth2319's GitHub | Stats](https://stats.quine.sh/supreeth2319/github?theme=light)](https://quine.sh)
