@@ -1,7 +1,7 @@
 ### Hi there, I'm Supreeth.M  👋 
 
-- 🔭 ## I'm  currently studying in vidyavardhaka collage of engineering!!
-- 🌱 I’m currently learning python 🐍 
+- 🔭 ## I'm  currently working as data science intern qt velocity clinical research !!
+- 🌱 I’m currently learning data science 🐍 
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about tech related stuff
